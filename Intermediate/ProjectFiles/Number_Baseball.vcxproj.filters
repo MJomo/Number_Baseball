@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Number_Baseball.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Number_Baseball.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Number_BaseballEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Number_Baseball">
+      <UniqueIdentifier>{166B2963-48ED-3E82-B544-F68D9F035D7A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Number_Baseball\Number_Baseball.Build.cs">
+      <Filter>Source\Number_Baseball</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Number_Baseball\Number_Baseball.cpp">
+      <Filter>Source\Number_Baseball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Number_Baseball\Number_Baseball.h">
+      <Filter>Source\Number_Baseball</Filter>
+    </ClCompile>
+    <Filter Include="Source\Number_Baseball\Private">
+      <UniqueIdentifier>{32FE2432-1120-3B4F-ABAB-2C38A949444D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Number_Baseball\Private\MyGameModeBase.cpp">
+      <Filter>Source\Number_Baseball\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Number_Baseball\Private\MyPlayerController.cpp">
+      <Filter>Source\Number_Baseball\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Number_Baseball\Private\MyUserWidget.cpp">
+      <Filter>Source\Number_Baseball\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Number_Baseball\Public">
+      <UniqueIdentifier>{317DF63F-4668-3B36-89F8-3C35A1635BE1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Number_Baseball\Public\MyGameModeBase.h">
+      <Filter>Source\Number_Baseball\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Number_Baseball\Public\MyPlayerController.h">
+      <Filter>Source\Number_Baseball\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Number_Baseball\Public\MyUserWidget.h">
+      <Filter>Source\Number_Baseball\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine\\Number_Baseball\\Source\\Number_Baseball\\Number_Baseball.Build.cs",
+		"D:\\UnrealEngine\\Number_Baseball\\Source\\Number_Baseball.Target.cs",
+		"D:\\UnrealEngine\\Number_Baseball\\Source\\Number_BaseballEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengine\\number_baseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\number_baseball\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine\\number_baseball\\intermediate\\build\\win64\\x64\\number_baseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengine\\number_baseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\number_baseball\\definitions.number_baseball.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
